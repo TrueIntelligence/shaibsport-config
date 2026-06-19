@@ -1,4 +1,6 @@
 {
   "live_enabled": true,
-  "live_title": "LIVE TV"
+  "live_title": "LIVE TV",
+  "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت\n\n• هذا التطبيق مخصص للأغراض الإعلامية والترفيهية فقط.\n• نتائج المباريات والإحصاءات مصدرها خدمات خارجية.\n• لا نتحمل مسؤولية أي أخطاء أو تأخير في البيانات.\n• حقوق البث المباشر مملوكة لأصحابها الأصليين.\n• التطبيق غير رسمي وغير مرتبط بأي اتحاد أو هيئة كروية.\n\nإخلاء مسؤولية دينية وأخلاقية:\nإن أي محتوى غير أخلاقي في هذا البرنامج هو مسؤولية شركة البث، ونحن بريئون أمام الله عز وجل من ما يتم عرضه لمتابعي المباراة من إعلانات مخلة، وقد قمنا بحذف وحظر ما نستطيع قدر المستطاع، ولكن هذه إعلانات في سيرفرات الشركة وليس البرنامج.",
+  "disclaimer_en": "Disclaimer – ShaibSport\n\n• This app is intended for informational and entertainment purposes only.\n• Match results and statistics are sourced from third-party services.\n• We are not responsible for any errors or delays in data.\n• Live stream rights belong to their respective owners.\n• This app is unofficial and not affiliated with any football federation or body."
 }
