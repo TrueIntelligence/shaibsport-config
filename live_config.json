@@ -26,6 +26,7 @@
   "watch_all_m3u":    "https://iptv-org.github.io/iptv/regions/mena.m3u",
   "watch_yemen_m3u":  "https://iptv-org.github.io/iptv/countries/ye.m3u",
   "watch_featured_m3u": "https://raw.githubusercontent.com/TrueIntelligence/shaibsport-config/main/featured_channels.m3u",
+  "featured_m3u": "https://raw.githubusercontent.com/TrueIntelligence/shaibsport-config/main/featured_channels.m3u",
 
   "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت
 
