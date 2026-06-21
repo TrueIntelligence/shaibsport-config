@@ -36,6 +36,8 @@
   "watch_all_tab":     false,
   "watch_phone_tab":   false,
 
+  "predictions_enabled": true,
+
   "featured_m3u": "https://raw.githubusercontent.com/TrueIntelligence/shaibsport-config/main/featured_channels.m3u",
 
   "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت\n\n• هذا التطبيق مخصص للأغراض الإعلامية والترفيهية فقط.\n• نتائج المباريات والإحصاءات مصدرها خدمات خارجية.\n• لا نتحمل مسؤولية أي أخطاء أو تأخير في البيانات.\n• محتوى البث المباشر مقدَّم من مزودي خدمات خارجيين وهم مسؤولون عنه كاملاً.\n• التطبيق غير رسمي وغير مرتبط بأي اتحاد أو هيئة كروية.",
