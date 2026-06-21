@@ -18,28 +18,25 @@
   "channel1_url": "https://1.goheali.com/splayer/Live1.php",
   "channel2_url": "https://p5.panda-hd.online/albaplayer/extra-2/",
 
+  "rotation_alert_message": "لا تحرك جوالك بكثرة لان عند الحركة البث يسوي تحديث",
+  "rotation_alert_button": "حسناً",
+
   "watch_stream1_url": "",
   "watch_stream2_url": "",
 
-  "watch_sports_m3u": "https://iptv-org.github.io/iptv/categories/sports.m3u",
-  "watch_news_m3u":   "https://iptv-org.github.io/iptv/categories/news.m3u",
-  "watch_all_m3u":    "https://iptv-org.github.io/iptv/regions/mena.m3u",
-  "watch_yemen_m3u":  "https://iptv-org.github.io/iptv/countries/ye.m3u",
-  "watch_featured_m3u": "https://raw.githubusercontent.com/TrueIntelligence/shaibsport-config/main/featured_channels.m3u",
+  "watch_sports_m3u":  "https://iptv-org.github.io/iptv/categories/sports.m3u",
+  "watch_news_m3u":    "https://iptv-org.github.io/iptv/categories/news.m3u",
+  "watch_all_m3u":     "https://iptv-org.github.io/iptv/regions/mena.m3u",
+  "watch_yemen_m3u":   "https://iptv-org.github.io/iptv/countries/ye.m3u",
+
+  "watch_matches_tab": true,
+  "watch_sports_tab":  true,
+  "watch_news_tab":    true,
+  "watch_all_tab":     true,
+  "watch_phone_tab":   true,
+
   "featured_m3u": "https://raw.githubusercontent.com/TrueIntelligence/shaibsport-config/main/featured_channels.m3u",
 
-  "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت
-
-• هذا التطبيق مخصص للأغراض الإعلامية والترفيهية فقط.
-• نتائج المباريات والإحصاءات مصدرها خدمات خارجية.
-• لا نتحمل مسؤولية أي أخطاء أو تأخير في البيانات.
-• محتوى البث المباشر مقدَّم من مزودي خدمات خارجيين وهم مسؤولون عنه كاملاً.
-• التطبيق غير رسمي وغير مرتبط بأي اتحاد أو هيئة كروية.",
-  "disclaimer_en": "Disclaimer – ShaibSport
-
-• This app is intended for informational and entertainment purposes only.
-• Match results and statistics are sourced from third-party services.
-• We are not responsible for any errors or delays in data.
-• Live stream content is provided by external third-party providers who are solely responsible for their content.
-• This app is unofficial and not affiliated with any football federations or body."
+  "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت\n\n• هذا التطبيق مخصص للأغراض الإعلامية والترفيهية فقط.\n• نتائج المباريات والإحصاءات مصدرها خدمات خارجية.\n• لا نتحمل مسؤولية أي أخطاء أو تأخير في البيانات.\n• محتوى البث المباشر مقدَّم من مزودي خدمات خارجيين وهم مسؤولون عنه كاملاً.\n• التطبيق غير رسمي وغير مرتبط بأي اتحاد أو هيئة كروية.",
+  "disclaimer_en": "Disclaimer – ShaibSport\n\n• This app is intended for informational and entertainment purposes only.\n• Match results and statistics are sourced from third-party services.\n• We are not responsible for any errors or delays in data.\n• Live stream content is provided by external third-party providers who are solely responsible for their content.\n• This app is unofficial and not affiliated with any football federations or body."
 }
