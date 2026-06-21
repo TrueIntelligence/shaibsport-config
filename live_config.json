@@ -7,11 +7,12 @@
   "news_enabled": true,
   "settings_enabled": true,
 
-  "other_channels_enabled": true,
+  "other_channels_enabled": false,
   "donate_enabled": true,
   "contact_enabled": true,
-  "syca_enabled": true,
+  "syca_enabled": false,
   "dedication_enabled": true,
+  "south_arabia_enabled": false,
 
   "guide_enabled": false,
 
