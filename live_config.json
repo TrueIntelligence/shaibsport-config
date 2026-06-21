@@ -1,5 +1,5 @@
 {
-  "live_enabled": true,
+  "live_enabled": false,
   "live_title": "LIVE TV",
 
   "matches_enabled": true,
@@ -18,6 +18,7 @@
   "channel1_url": "https://1.goheali.com/splayer/Live1.php",
   "channel2_url": "https://p5.panda-hd.online/albaplayer/extra-2/",
 
+  "rotation_alert_enabled": false,
   "rotation_alert_message": " لا تحرك جوالك بكثرة ,  عند الحركة البث يسوي تحديث يا نعجة",
   "rotation_alert_button": "واصل",
 
@@ -30,10 +31,10 @@
   "watch_yemen_m3u":   "https://iptv-org.github.io/iptv/countries/ye.m3u",
 
   "watch_matches_tab": true,
-  "watch_sports_tab":  true,
-  "watch_news_tab":    true,
-  "watch_all_tab":     true,
-  "watch_phone_tab":   true,
+  "watch_sports_tab":  false,
+  "watch_news_tab":    false,
+  "watch_all_tab":     false,
+  "watch_phone_tab":   false,
 
   "featured_m3u": "https://raw.githubusercontent.com/TrueIntelligence/shaibsport-config/main/featured_channels.m3u",
 
