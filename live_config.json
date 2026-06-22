@@ -47,12 +47,12 @@
   "refresh_msg1": "اصبر... جاري التقاط البث عبر الاقمار الصناعية ..",
   "refresh_msg2": "لقول لك الصبر مفتاح الفرج صبر",
 
-  "share_enabled": true,
+  "share_enabled": false,
   "share_title": "دقس صاحبك ينشر البرنامج",
   "share_title_en": "Share the App",
   "share_url": "https://apps.apple.com/us/app/shaibsport/id6782717028",
 
-  "warta_enabled": true,
+  "warta_enabled": false,
   "warta_title": "عرطة العرطات",
   "warta_title_en": "Dealzz!",
   "warta_url": "https://chat.whatsapp.com/DGgtnhmIUJc1wjjI6ggUHy"
