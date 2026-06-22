@@ -15,6 +15,8 @@
   "south_arabia_enabled": false,
 
   "guide_enabled": false,
+  "game_enabled": true,
+  "predictions_enabled": true,
 
   "channel1_url": "https://1.goheali.com/splayer/Live1.php",
   "channel2_url": "https://p5.panda-hd.online/albaplayer/extra-2/",
@@ -37,8 +39,6 @@
   "watch_all_tab":     false,
   "watch_phone_tab":   false,
 
-  "predictions_enabled": true,
-
   "featured_m3u": "https://raw.githubusercontent.com/TrueIntelligence/shaibsport-config/main/featured_channels.m3u",
 
   "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت\n\n• هذا التطبيق مخصص للأغراض الإعلامية والترفيهية فقط.\n• نتائج المباريات والإحصاءات مصدرها خدمات خارجية.\n• لا نتحمل مسؤولية أي أخطاء أو تأخير في البيانات.\n• محتوى البث المباشر مقدَّم من مزودي خدمات خارجيين وهم مسؤولون عنه كاملاً.\n• التطبيق غير رسمي وغير مرتبط بأي اتحاد أو هيئة كروية.",
@@ -55,5 +55,17 @@
   "warta_enabled": false,
   "warta_title": "عرطة العرطات",
   "warta_title_en": "Dealzz!",
-  "warta_url": "https://chat.whatsapp.com/DGgtnhmIUJc1wjjI6ggUHy"
+  "warta_url": "https://chat.whatsapp.com/DGgtnhmIUJc1wjjI6ggUHy",
+
+  "ai_assistant_enabled": true,
+  "ai_assistant_title_ar": "مساعد كأس العالم",
+  "ai_assistant_title_en": "World Cup AI",
+  "ai_assistant_subtitle_ar": "مساعد ذكي لكأس العالم • Apple AI",
+  "ai_assistant_subtitle_en": "AI-powered World Cup chat • Apple AI",
+
+  "majabir_enabled": true,
+  "majabir_title_ar": "جابر المجابر",
+  "majabir_title_en": "Jabber The AI Assistant",
+  "majabir_subtitle_ar": "مساعد رياضي ذكي • بدون إنترنت",
+  "majabir_subtitle_en": "AI Sports Chat • Offline"
 }
