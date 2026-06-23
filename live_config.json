@@ -8,7 +8,7 @@
   "settings_enabled": true,
 
   "other_channels_enabled": false,
-  "donate_enabled": true,
+  "donate_enabled": false,
   "contact_enabled": true,
   "syca_enabled": false,
   "dedication_enabled": true,
