@@ -53,11 +53,11 @@
   "majabir_title_en": "Jabber The AI Assistant",
   "majabir_subtitle_ar": "مساعد رياضي ذكي • بدون إنترنت",
   "majabir_subtitle_en": "AI Sports Chat • Offline",
-  "najaa_tube_enabled": true,
+  "najaa_tube_enabled": false,
   "najaa_tube_title_ar": "تحميل برنامج النعجة تووب",
   "najaa_tube_title_en": "EweTube",
   "najaa_tube_url": "",
-  "ilm_enabled": true,
+  "ilm_enabled": false,
   "ilm_title_ar": "اطلب العلم الشرعي مجاناً مع شهادة موثقة",
   "ilm_title_en": "Study Islamic Law Free – With Certificate",
   "ilm_url": "https://www.southyemenusa.com/2026/06/youth-south-california-zad-academy-invitation.html"
