@@ -58,14 +58,24 @@
   "warta_url": "https://chat.whatsapp.com/DGgtnhmIUJc1wjjI6ggUHy",
 
   "ai_assistant_enabled": true,
-  "ai_assistant_title_ar": "مساعد كأس العالم",
-  "ai_assistant_title_en": "World Cup AI",
-  "ai_assistant_subtitle_ar": "مساعد ذكي لكأس العالم • Apple AI",
-  "ai_assistant_subtitle_en": "AI-powered World Cup chat • Apple AI",
+  "ai_assistant_title_ar": "مساعد النهائيات",
+  "ai_assistant_title_en": "Finals AI",
+  "ai_assistant_subtitle_ar": "مساعد ذكي للنهائيات • Apple AI",
+  "ai_assistant_subtitle_en": "AI-powered Finals chat • Apple AI",
 
   "majabir_enabled": true,
   "majabir_title_ar": "جابر المجابر",
   "majabir_title_en": "Jabber The AI Assistant",
   "majabir_subtitle_ar": "مساعد رياضي ذكي • بدون إنترنت",
-  "majabir_subtitle_en": "AI Sports Chat • Offline"
+  "majabir_subtitle_en": "AI Sports Chat • Offline",
+
+  "najaa_tube_enabled": false,
+  "najaa_tube_title_ar": "تحميل برنامج النعجة تووب",
+  "najaa_tube_title_en": "Download Naja2a Tube",
+  "najaa_tube_url": "",
+
+  "ilm_enabled": true,
+  "ilm_title_ar": "اطلب العلم الشرعي مجاناً مع شهادة موثقة",
+  "ilm_title_en": "Study Islamic Law Free – With Certificate",
+  "ilm_url": "https://www.southyemenusa.com/2026/06/youth-south-california-zad-academy-invitation.html"
 }
