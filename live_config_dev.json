@@ -14,6 +14,7 @@
   "guide_enabled": true,
   "game_enabled": true,
   "predictions_enabled": true,
+  "knockout_enabled": true,
   "channel1_url": "https://jkndasijn.work.gd/embed.php?id=5640237237",
   "channel2_url": "https://p5.panda-hd.online/albaplayer/extra-2/",
   "channel3_url": "",
