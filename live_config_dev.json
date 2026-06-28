@@ -1,5 +1,5 @@
 {
-  "live_enabled": false,
+  "live_enabled": true,
   "live_title": "LIVE TV",
   "matches_enabled": true,
   "world_cup_enabled": true,
