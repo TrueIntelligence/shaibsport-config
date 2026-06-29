@@ -13,14 +13,14 @@
   "settings_enabled": true,
 
   "__note_channels": "═══ LIVE TV — CH1 & CH2 stream URLs ═══",
-  "channel1_url": "https://jkndasijn.work.gd/embed.php?id=5640237237",
-  "channel2_url": "https://p5.panda-hd.online/albaplayer/extra-2/",
+  "channel1_url": "https://player.syria-player.live/albaplayer/beinmax2/",
+  "channel2_url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=2",
 
   "__note_ch3": "═══ CH3 — web browser tab (set ch3_url to open a site, leave empty for blank) ═══",
   "ch3_enabled": true,
   "ch3_title_ar": "قناة 3",
   "ch3_title_en": "CH 3",
-  "ch3_url": "https://player.syria-player.live/albaplayer/beinmax2/",
+  "ch3_url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=3",
 
   "__note_ch4": "═══ CH4 — auto-discovery (add stream objects: [{title, url}, ...]) ═══",
   "ch4_enabled": true,
