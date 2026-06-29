@@ -1,0 +1,56 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "lastUpdated": "2026-06-29",
+  "stage": "Knockout Phase (Round of 32 starting)",
+  "teams": [
+    {
+      "name": "Argentina",
+      "country": "Argentina",
+      "status": "qualified",
+      "note": "Advanced to Round of 32"
+    },
+    {
+      "name": "France",
+      "country": "France",
+      "status": "qualified",
+      "note": "Advanced to Round of 32"
+    },
+    {
+      "name": "Brazil",
+      "country": "Brazil",
+      "status": "qualified",
+      "note": "Advanced to Round of 32"
+    },
+    {
+      "name": "England",
+      "country": "England",
+      "status": "qualified",
+      "note": "Advanced to Round of 32"
+    },
+
+    {
+      "name": "South Korea",
+      "country": "South Korea",
+      "status": "eliminated",
+      "note": "Eliminated in group stage"
+    },
+    {
+      "name": "Qatar",
+      "country": "Qatar",
+      "status": "eliminated",
+      "note": "Eliminated in group stage"
+    },
+    {
+      "name": "Uruguay",
+      "country": "Uruguay",
+      "status": "eliminated",
+      "note": "Eliminated in group stage"
+    },
+    {
+      "name": "Tunisia",
+      "country": "Tunisia",
+      "status": "eliminated",
+      "note": "Eliminated in group stage"
+    }
+  ]
+}
