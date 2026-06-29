@@ -8,7 +8,7 @@
   "news_enabled": true,
   "predictions_enabled": true,
   "game_enabled": true,
-  "guide_enabled": false,
+  "guide_enabled": true,
   "settings_enabled": true,
 
   "channel1_url": "https://jkndasijn.work.gd/embed.php?id=5640237237",
@@ -30,14 +30,14 @@
   "refresh_msg1": "اصبر... جاري التقاط البث عبر الاقمار الصناعية ..",
   "refresh_msg2": "",
 
-  "other_channels_enabled": false,
+  "other_channels_enabled": true,
   "donate_enabled": false,
-  "south_arabia_enabled": false,
+  "south_arabia_enabled": true,
   "contact_enabled": true,
   "syca_enabled": false,
   "dedication_enabled": true,
 
-  "share_enabled": false,
+  "share_enabled": true,
   "share_title": "دقس صاحبك ينشر البرنامج",
   "share_title_en": "Share the App",
   "share_url": "https://apps.apple.com/us/app/shaibsport/id6782717028",
@@ -64,7 +64,7 @@
   "najaa_tube_title_en": "EweTube",
   "najaa_tube_url": "",
 
-  "ilm_enabled": false,
+  "ilm_enabled": true,
   "ilm_title_ar": "اطلب العلم الشرعي مجاناً مع شهادة موثقة",
   "ilm_title_en": "Study Islamic Law Free – With Certificate",
   "ilm_url": "https://www.southyemenusa.com/2026/06/youth-south-california-zad-academy-invitation.html",
