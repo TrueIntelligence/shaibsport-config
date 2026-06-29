@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-06-29",
+  "channels": {
+    "ch1": {
+      "blockDomains": [],
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "notes": "Channel 1"
+    },
+    "ch2": {
+      "blockDomains": [],
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "notes": "Channel 2"
+    },
+    "ch3": {
+      "blockDomains": ["subduepaler.cyou"],
+      "hideSelectors": [
+        ".wrapper[data-area='area3']",
+        ".captcha",
+        "[data-area='area3']",
+        "img[src*='subduepaler']",
+        "a[href*='subduepaler']"
+      ],
+      "removeSelectors": [
+        ".wrapper[data-area='area3']",
+        ".captcha[data-area='area1']",
+        "img[src*='subduepaler']",
+        "a[href*='subduepaler']",
+        "[data-area='area3']"
+      ],
+      "notes": "Block subduepaler.cyou fake CAPTCHA overlay"
+    },
+    "ch4": {
+      "blockDomains": [],
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "notes": "Channel 4"
+    }
+  }
+}
