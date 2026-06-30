@@ -11,7 +11,7 @@
   "game_enabled": true,
   "guide_enabled": true,
   "settings_enabled": true,
-  "highlights_enabled": false,
+  "highlights_enabled": true,
 
   "__note_channels": "═══ LIVE TV — CH1 & CH2 stream URLs ═══",
   "channel1_url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=1",
