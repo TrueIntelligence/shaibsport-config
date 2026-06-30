@@ -20,7 +20,7 @@
   "ch3_enabled": true,
   "ch3_title_ar": "قناة 3",
   "ch3_title_en": "CH 3",
-  "ch3_url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=3",
+  "ch3_url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=1",
 
   "__note_ch4": "═══ CH4 — auto-discovery (add stream objects: [{title, url}, ...]) ═══",
   "ch4_enabled": true,
