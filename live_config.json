@@ -15,7 +15,7 @@
 
   "__note_channels": "═══ LIVE TV — CH1 & CH2 stream URLs ═══",
   "channel1_url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=1",
-  "channel2_url": "hhttps://player.syria-player.live/albaplayer/beinmax1/?serv=1",
+  "channel2_url": "https://player.syria-player.live/albaplayer/beinmax2/",
 
   "__note_ch3": "═══ CH3 — web browser tab (set ch3_url to open a site, leave empty for blank) ═══",
   "ch3_enabled": true,
