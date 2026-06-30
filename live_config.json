@@ -11,6 +11,7 @@
   "game_enabled": true,
   "guide_enabled": true,
   "settings_enabled": true,
+  "highlights_enabled": false,
 
   "__note_channels": "═══ LIVE TV — CH1 & CH2 stream URLs ═══",
   "channel1_url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=1",
@@ -36,12 +37,15 @@
   "refresh_msg2": "",
 
   "__note_settings": "═══ SETTINGS — show/hide sections in Settings screen ═══",
-  "other_channels_enabled": true,
+  "other_channels_enabled": false,
   "donate_enabled": false,
-  "south_arabia_enabled": true,
+  "south_arabia_enabled": false,
   "contact_enabled": true,
   "syca_enabled": false,
   "dedication_enabled": true,
+
+  "__note_fan_center": "═══ FAN CENTER — show/hide rows ═══",
+  "fan_center_update_enabled": false,
 
   "__note_share": "═══ SHARE — share button row in Settings ═══",
   "share_enabled": true,
