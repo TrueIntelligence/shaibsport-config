@@ -3,7 +3,7 @@
   "__note_tabs": "═══ TABS — true = show tab, false = hide tab ═══",
   "live_enabled": true,
   "live_title": "LIVE TV",
-  "matches_enabled": true,
+  "matches_enabled": false,
   "world_cup_enabled": true,
   "knockout_enabled": true,
   "news_enabled": true,
@@ -11,7 +11,7 @@
   "game_enabled": true,
   "guide_enabled": true,
   "settings_enabled": true,
-  "highlights_enabled": true,
+  "highlights_enabled": false,
 
   "__note_channels": "═══ LIVE TV — CH1 & CH2 stream URLs ═══",
   "channel1_url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=1",
