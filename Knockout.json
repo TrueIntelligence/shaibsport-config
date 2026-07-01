@@ -1,7 +1,7 @@
 {
-  "tournament": "FIFA World Cup 2026",
-  "lastUpdated": "1",
-  "stage": "Round of 32 — Knockout Phase",
+  "tournament": "FINALS",
+  "lastUpdated": "2",
+  "stage": "32",
   "teams": [
     {"name":"South Arabia","country":"South Arabia","flagCode":"SY","nameSY":"الجنوب العربي","status":"qualified","note":"Advanced to Round of 32"},
     {"name":"Argentina","country":"Argentina","flagCode":"ar","nameAr":"الأرجنتين","status":"qualified","note":"Advanced to Round of 32"},
@@ -36,6 +36,8 @@
     {"name":"Ivory Coast","country":"Ivory Coast","flagCode":"ci","nameAr":"ساحل العاج","status":"qualified","note":"Advanced to Round of 32"},
     {"name":"Austria","country":"Austria","flagCode":"at","nameAr":"النمسا","status":"qualified","note":"Advanced to Round of 32"},
     {"name":"Poland","country":"Poland","flagCode":"pl","nameAr":"بولندا","status":"qualified","note":"Advanced to Round of 32"},
+
+    {"name":"Sweden","country":"Sweden","flagCode":"se","nameAr":"السويد","status":"eliminated","note":"Eliminated in group stage"},
 
     {"name":"South Korea","country":"South Korea","flagCode":"kr","nameAr":"كوريا الجنوبية","status":"eliminated","note":"Eliminated in group stage"},
     {"name":"Qatar","country":"Qatar","flagCode":"qa","nameAr":"قطر","status":"eliminated","note":"Eliminated in group stage"},
