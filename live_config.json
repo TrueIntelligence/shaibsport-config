@@ -1,9 +1,9 @@
 {
 
   "__note_tabs": "═══ TABS — true = show tab, false = hide tab ═══",
-  "live_enabled": true,
+  "live_enabled": false,
   "live_title": "LIVE TV",
-  "matches_enabled": false,
+  "matches_enabled": true,
   "world_cup_enabled": true,
   "knockout_enabled": true,
   "news_enabled": true,
