@@ -11,7 +11,10 @@
   "world_cup_enabled": true,
   "knockout_enabled": false,
   "news_enabled": true,
-  "predictions_enabled": true,
+
+  "__note_predictions": "═══ PREDICTIONS — Fan Center vote row (التوقعات) ═══",
+  "predictions_enabled": false,
+
   "game_enabled": true,
   "guide_enabled": true,
   "settings_enabled": true,
