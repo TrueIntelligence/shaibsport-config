@@ -20,6 +20,13 @@
   "settings_enabled": true,
   "highlights_enabled": false,
 
+  "__note_watch": "═══ APPLE WATCH — companion app tabs ═══",
+  "watch_matches_tab": true,
+  "watch_sports_tab": false,
+  "watch_news_tab": false,
+  "watch_all_tab": false,
+  "watch_phone_tab": false,
+
   "__note_channels": "═══ LIVE TV — CH1 & CH2 stream URLs ═══",
   "channel1_url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=1",
   "channel2_url": "https://player.syria-player.live/albaplayer/beinmax2/",
