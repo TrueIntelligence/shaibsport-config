@@ -3,7 +3,10 @@
   "__note_tabs": "═══ TABS — true = show tab, false = hide tab ═══",
   "live_enabled": false,
   "live_title": "LIVE TV",
-  "matches_enabled": true,
+
+  "__note_today": "═══ TODAY TAB — مباراة اليوم / Today ═══",
+  "today_enabled": false,
+  "matches_enabled": false,
   "__note_international": "world_cup_enabled controls the International tab (legacy key name)",
   "world_cup_enabled": true,
   "knockout_enabled": false,
