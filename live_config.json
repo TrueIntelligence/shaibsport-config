@@ -4,8 +4,9 @@
   "live_enabled": false,
   "live_title": "LIVE TV",
   "matches_enabled": true,
+  "__note_international": "world_cup_enabled controls the International tab (legacy key name)",
   "world_cup_enabled": true,
-  "knockout_enabled": true,
+  "knockout_enabled": false,
   "news_enabled": true,
   "predictions_enabled": true,
   "game_enabled": true,
@@ -61,10 +62,10 @@
 
   "__note_ai": "═══ MORE TAB — AI Assistant row (iOS 26+) ═══",
   "ai_assistant_enabled": true,
-  "ai_assistant_title_ar": "مساعد النهائيات",
-  "ai_assistant_title_en": "Finals AI",
-  "ai_assistant_subtitle_ar": "مساعد ذكي للنهائيات • Apple AI",
-  "ai_assistant_subtitle_en": "AI-powered Finals chat • Apple AI",
+  "ai_assistant_title_ar": "مساعد رياضي",
+  "ai_assistant_title_en": "Sports AI",
+  "ai_assistant_subtitle_ar": "مساعد ذكي للمباريات • Apple AI",
+  "ai_assistant_subtitle_en": "AI-powered sports chat • Apple AI",
 
   "__note_majabir": "═══ MORE TAB — Majabir AI row ═══",
   "majabir_enabled": true,
@@ -86,7 +87,7 @@
   "ilm_url": "https://www.southyemenusa.com/2026/06/youth-south-california-zad-academy-invitation.html",
 
   "__note_legal": "═══ LEGAL — disclaimer text shown in Settings ═══",
-  "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت\n\n• هذا التطبيق مخصص للأغراض الإعلامية والترفيهية فقط.\n• نتائج المباريات والإحصاءات مصدرها خدمات خارجية.\n• لا نتحمل مسؤولية أي أخطاء أو تأخير في البيانات.\n• التطبيق غير رسمي وغير مرتبط بأي اتحاد أو هيئة كروية.",
-  "disclaimer_en": "Disclaimer – ShaibSport\n\n• This app is intended for informational and entertainment purposes only.\n• Match results and statistics are sourced from third-party services.\n• We are not responsible for any errors or delays in data.\n• This app is unofficial and not affiliated with any football federation or body."
+  "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت\n\n• هذا التطبيق مخصص للأغراض الإعلامية والترفيهية فقط.\n• نتائج المباريات والإحصاءات مصدرها خدمات خارجية.\n• لا نتحمل مسؤولية أي أخطاء أو تأخير في البيانات.\n• التطبيق غير رسمي وغير مرتبط بـ FIFA أو كأس العالم أو أي اتحاد أو هيئة كروية.",
+  "disclaimer_en": "Disclaimer – ShaibSport\n\n• This app is intended for informational and entertainment purposes only.\n• Match results and statistics are sourced from third-party services.\n• We are not responsible for any errors or delays in data.\n• This app is unofficial and not affiliated with FIFA, the World Cup, or any football federation or body."
 
 }
