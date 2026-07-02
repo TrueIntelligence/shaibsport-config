@@ -20,7 +20,8 @@
   "settings_enabled": true,
   "highlights_enabled": false,
 
-  "__note_watch": "═══ APPLE WATCH — companion app tabs ═══",
+  "__note_watch": "═══ APPLE WATCH — companion app tabs (false = hidden) ═══",
+  "watch_live_enabled": false,
   "watch_matches_tab": true,
   "watch_sports_tab": false,
   "watch_news_tab": false,
