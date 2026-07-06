@@ -44,6 +44,13 @@
   "ch4_title_en": "CH 4",
   "ch4_streams": [],
 
+
+  "__note_ch5": "═══ CH5 — Koora browser (majed-koora.co) + native HLS player ═══",
+  "ch5_enabled": false,
+  "ch5_title_ar": "قناة 5",
+  "ch5_title_en": "CH 5",
+  "ch5_url": "https://majed-koora.co/",
+
   "__note_live_ui": "═══ LIVE TV — UI messages ═══",
   "rotation_alert_enabled": false,
   "rotation_alert_message": "لا تحرك جوالك بكثرة، عند الحركة البث يسوي تحديث يا نعجة",
