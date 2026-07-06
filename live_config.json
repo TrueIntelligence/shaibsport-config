@@ -33,19 +33,19 @@
   "channel2_url": "https://player.syria-player.live/albaplayer/beinmax2/",
 
   "__note_ch3": "═══ CH3 — web browser tab (set ch3_url to open a site, leave empty for blank) ═══",
-  "ch3_enabled": true,
+  "ch3_enabled": false,
   "ch3_title_ar": "قناة 3",
   "ch3_title_en": "CH 3",
   "ch3_url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=3",
 
   "__note_ch4": "═══ CH4 — auto-discovery (add stream objects: [{title, url}, ...]) ═══",
-  "ch4_enabled": true,
+  "ch4_enabled": false,
   "ch4_title_ar": "قناة 4",
   "ch4_title_en": "CH 4",
   "ch4_streams": [],
 
   "__note_live_ui": "═══ LIVE TV — UI messages ═══",
-  "rotation_alert_enabled": true,
+  "rotation_alert_enabled": false,
   "rotation_alert_message": "لا تحرك جوالك بكثرة، عند الحركة البث يسوي تحديث يا نعجة",
   "rotation_alert_button": "واصل",
   "refresh_msg1": "اصبر... جاري التقاط البث ..",
@@ -95,7 +95,7 @@
   "najaa_tube_url": "",
 
   "__note_ilm": "═══ MORE TAB — Islamic Studies link row ═══",
-  "ilm_enabled": true,
+  "ilm_enabled": false,
   "ilm_title_ar": "اطلب العلم الشرعي مجاناً مع شهادة موثقة",
   "ilm_title_en": "Study Islamic Law Free – With Certificate",
   "ilm_url": "https://www.southyemenusa.com/2026/06/youth-south-california-zad-academy-invitation.html",
