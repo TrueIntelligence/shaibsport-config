@@ -30,7 +30,7 @@
 
   "__note_channels": "═══ LIVE TV — CH1 & CH2 stream URLs ═══",
   "channel1_url": "https://player.syria-player.live/albaplayer/beinmax1/",
-  "channel2_url": "https://we.shootsync.site/albaplayer/sniaer/?serv=0",
+  "channel2_url": "https://player.syria-player.live/albaplayer/beinmax1/",
 
   "__note_ch3": "═══ CH3 — web browser tab (set ch3_url to open a site, leave empty for blank) ═══",
   "ch3_enabled": false,
