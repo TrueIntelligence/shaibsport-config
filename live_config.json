@@ -30,13 +30,13 @@
 
   "__note_channels": "═══ LIVE TV — CH1 & CH2 stream URLs ═══",
   "channel1_url": "  https://player.syria-player.live/albaplayer/beinmax1/?serv=0",
-  "channel2_url": "https://player.syria-player.live/albaplayer/beinmax2/",
+  "channel2_url": "https://we.shootsync.site/albaplayer/sniaer/?serv=0",
 
   "__note_ch3": "═══ CH3 — web browser tab (set ch3_url to open a site, leave empty for blank) ═══",
   "ch3_enabled": false,
   "ch3_title_ar": "قناة 3",
   "ch3_title_en": "CH 3",
-  "ch3_url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=3",
+  "ch3_url": "https://we.shootsync.site/albaplayer/sniaer/?serv=0",
 
   "__note_ch4": "═══ CH4 — auto-discovery (add stream objects: [{title, url}, ...]) ═══",
   "ch4_enabled": false,
@@ -49,7 +49,7 @@
   "ch5_enabled": false,
   "ch5_title_ar": "قناة 5",
   "ch5_title_en": "CH 5",
-  "ch5_url": "https://majed-koora.co/",
+  "ch5_url": "https://we.shootsync.site/albaplayer/sniaer/?serv=0",
 
   "__note_live_ui": "═══ LIVE TV — UI messages ═══",
   "rotation_alert_enabled": false,
