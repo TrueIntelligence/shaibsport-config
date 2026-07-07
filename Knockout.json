@@ -1,6 +1,6 @@
 {
   "tournament": "International",
-  "lastUpdated": "2026-07-06T16:02:51Z",
+  "lastUpdated": "2026-07-07T18:11:58Z",
   "stage": "16",
   "teams": [
     {
@@ -17,7 +17,7 @@
       "flagCode": "ar",
       "nameAr": "الأرجنتين",
       "status": "qualified",
-      "note": "Advanced to Round of 16"
+      "note": "Advanced to Quarter-finals"
     },
     {
       "name": "France",
@@ -49,7 +49,7 @@
       "flagCode": "es",
       "nameAr": "إسبانيا",
       "status": "qualified",
-      "note": "Advanced to Round of 16"
+      "note": "Advanced to Quarter-finals"
     },
     {
       "name": "Germany",
@@ -64,8 +64,8 @@
       "country": "Portugal",
       "flagCode": "pt",
       "nameAr": "البرتغال",
-      "status": "qualified",
-      "note": "Advanced to Round of 16"
+      "status": "eliminated",
+      "note": "Eliminated in Round of 16"
     },
     {
       "name": "Netherlands",
@@ -81,7 +81,7 @@
       "flagCode": "be",
       "nameAr": "بلجيكا",
       "status": "qualified",
-      "note": "Advanced to Round of 16"
+      "note": "Advanced to Quarter-finals"
     },
     {
       "name": "Morocco",
@@ -104,8 +104,8 @@
       "country": "United States",
       "flagCode": "us",
       "nameAr": "الولايات المتحدة",
-      "status": "qualified",
-      "note": "Advanced to Round of 16"
+      "status": "eliminated",
+      "note": "Eliminated in Round of 16"
     },
     {
       "name": "Canada",
@@ -208,8 +208,8 @@
       "country": "Egypt",
       "flagCode": "eg",
       "nameAr": "مصر",
-      "status": "qualified",
-      "note": "Advanced to Round of 16"
+      "status": "eliminated",
+      "note": "Eliminated in Round of 16"
     },
     {
       "name": "Italy",
