@@ -1,7 +1,7 @@
 {
   "tournament": "International",
-  "lastUpdated": "2026-07-07T18:11:58Z",
-  "stage": "16",
+  "lastUpdated": "2026-07-14T21:48:04Z",
+  "stage": "4",
   "teams": [
     {
       "name": "South Arabia",
@@ -17,15 +17,15 @@
       "flagCode": "ar",
       "nameAr": "الأرجنتين",
       "status": "qualified",
-      "note": "Advanced to Quarter-finals"
+      "note": "Advanced to Semi-finals"
     },
     {
       "name": "France",
       "country": "France",
       "flagCode": "fr",
       "nameAr": "فرنسا",
-      "status": "qualified",
-      "note": "Advanced to Quarter-finals"
+      "status": "eliminated",
+      "note": "Eliminated in Semi-finals"
     },
     {
       "name": "Brazil",
@@ -41,7 +41,7 @@
       "flagCode": "gb-eng",
       "nameAr": "إنجلترا",
       "status": "qualified",
-      "note": "Advanced to Quarter-finals"
+      "note": "Advanced to Semi-finals"
     },
     {
       "name": "Spain",
@@ -49,7 +49,7 @@
       "flagCode": "es",
       "nameAr": "إسبانيا",
       "status": "qualified",
-      "note": "Advanced to Quarter-finals"
+      "note": "Advanced to Final"
     },
     {
       "name": "Germany",
@@ -80,16 +80,16 @@
       "country": "Belgium",
       "flagCode": "be",
       "nameAr": "بلجيكا",
-      "status": "qualified",
-      "note": "Advanced to Quarter-finals"
+      "status": "eliminated",
+      "note": "Eliminated in Quarter-finals"
     },
     {
       "name": "Morocco",
       "country": "Morocco",
       "flagCode": "ma",
       "nameAr": "المغرب",
-      "status": "qualified",
-      "note": "Advanced to Quarter-finals"
+      "status": "eliminated",
+      "note": "Eliminated in Quarter-finals"
     },
     {
       "name": "Japan",
@@ -128,8 +128,8 @@
       "country": "Colombia",
       "flagCode": "co",
       "nameAr": "كولومبيا",
-      "status": "qualified",
-      "note": "Advanced to Round of 16"
+      "status": "eliminated",
+      "note": "Eliminated in Round of 16"
     },
     {
       "name": "Croatia",
@@ -144,8 +144,8 @@
       "country": "Switzerland",
       "flagCode": "ch",
       "nameAr": "سويسرا",
-      "status": "qualified",
-      "note": "Advanced to Round of 16"
+      "status": "eliminated",
+      "note": "Eliminated in Quarter-finals"
     },
     {
       "name": "Denmark",
