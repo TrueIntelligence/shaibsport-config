@@ -1,5 +1,5 @@
 {
-  "__note_tabs": "═══ TABS — true = show tab, false = hide tab ═══",
+  "__note_tabs": "═══ TABS ═══ today_enabled / world_cup_enabled / knockout_enabled / live_enabled / news_enabled / highlights_enabled / fan_center_enabled / settings_enabled (More) ═══ titles: today_title_ar/en, world_cup_title_ar/en, knockout_title_ar/en, live_title + live_title_en, news_title_ar/en, highlights_title_ar/en, fan_center_title_ar/en, more_title_ar/en ═══ highlights URLs: youtube_playlist_id, youtube_moments_url, world_cup_tour_url",
   "live_enabled": false,
   "live_title": "مباريات",
   "__note_today": "═══ TODAY TAB — مباراة اليوم / Today ═══",
@@ -571,5 +571,23 @@
       "mode": "manual",
       "enabled": true
     }
-  ]
+  ],
+  "fan_center_enabled": true,
+  "today_title_ar": "مباراة اليوم",
+  "today_title_en": "Today",
+  "world_cup_title_ar": "كأس العالم",
+  "world_cup_title_en": "World Cup",
+  "knockout_title_ar": "الإقصاء",
+  "knockout_title_en": "Knockout",
+  "live_title_en": "Canvas",
+  "news_title_ar": "الأخبار",
+  "news_title_en": "News",
+  "highlights_title_ar": "لحظات مهمه",
+  "highlights_title_en": "Highlights",
+  "fan_center_title_ar": "مركز المشجع",
+  "fan_center_title_en": "Fan Center",
+  "more_title_ar": "المزيد",
+  "more_title_en": "More",
+  "youtube_moments_url": "https://www.youtube.com/watch?v=LRkMTi2bNDU&list=PLczz3UIGL1XomL2PAj_YUCcwXuXm2PRm1",
+  "world_cup_tour_url": "https://www.yallakora.com/tour-videos/125/%d9%81%d9%8a%d8%af%d9%8a%d9%88%d9%87%d8%a7%d8%aa-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85#wc-menu"
 }
