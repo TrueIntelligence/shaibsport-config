@@ -1,18 +1,18 @@
 {
   "__note_tabs": "═══ TABS — true = show tab, false = hide tab ═══",
-  "live_enabled": true,
+  "live_enabled": false,
   "live_title": "مباريات",
   "__note_today": "═══ TODAY TAB — مباراة اليوم / Today ═══",
   "today_enabled": false,
   "matches_enabled": false,
   "__note_international": "world_cup_enabled controls the International tab (legacy key name)",
-  "world_cup_enabled": true,
+  "world_cup_enabled": false,
   "knockout_enabled": false,
   "news_enabled": true,
   "__note_predictions": "═══ PREDICTIONS — Fan Center vote row (التوقعات) ═══",
   "predictions_enabled": false,
   "game_enabled": true,
-  "guide_enabled": true,
+  "guide_enabled": false,
   "settings_enabled": true,
   "highlights_enabled": false,
   "__note_watch": "═══ APPLE WATCH — companion app tabs (false = hidden) ═══",
@@ -31,7 +31,7 @@
   "ch3_title_en": "CH 3",
   "ch3_url": "https://we.shootsync.site/albaplayer/sniaer/?serv=0",
   "__note_ch4": "═══ CH4 — auto-discovery (add stream objects: [{title, url}, ...]) ═══",
-  "ch4_enabled": true,
+  "ch4_enabled": false,
   "ch4_title_ar": "ملقط المباريات",
   "ch4_title_en": "Match Clipper",
   "ch4_streams": [],
@@ -56,7 +56,7 @@
   "__note_fan_center": "═══ FAN CENTER — show/hide rows ═══",
   "fan_center_update_enabled": false,
   "__note_share": "═══ SHARE — share button row in Settings ═══",
-  "share_enabled": true,
+  "share_enabled": false,
   "share_title": "دقس صاحبك ينشر البرنامج",
   "share_title_en": "Share the App",
   "share_url": "https://apps.apple.com/us/app/shaibsport/id6782717028",
@@ -98,28 +98,28 @@
       "title": "الجزيرة",
       "subtitle": "قناة الجزيرة الإخبارية",
       "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "live-aljazeera-en",
       "title": "Al Jazeera EN",
       "subtitle": "Al Jazeera English",
       "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "live-majid",
       "title": "ماجد",
       "subtitle": "قناة ماجد للأطفال",
       "url": "https://usw22.playlist.ttvnw.net/v1/playlist/Cq0HWdexY0Py7vL1kF505PXnOlA4z9u7N_bUrlnOU36Hobn7GLtJIyrtz7mL40qGTensorflowAeB2rEIkXCxc91HCiVvRnpaxwrUAO2yaILNdP2LlGeD-zbfl7uThQScoMsW56FjkKEjzVv9NzGdWY2gdeclm_TSuqfdggVKUowQcrR7E9AYB2fVKl_1H8_n1jnL9Hs_RYGh9eY0k9rhkW9jEsR2XZcPhicklBYrNRaFiEHw-Nx57-fCg_n_JWqQfgftID4RD7RuqzwyjbquxlJGe9QJ1O4iioZgp4xKHdyP22btr6GJ41ccu2AbSm0B8HoqhIbeBPJMv_rh4NGKqc3-tVIBHv14mmasu_sR3Bn3NqEOynHE2M0BgKIJXCBhdQ6-QIiv16Mu8EduxvFzLtBvQZR0Lvkxm4RNjQi2aRYGJ-K05hA9Dc1MC6WyxUUoRa12e23eUkpyY1bZNUm-QFIB7ZlFB_i_DHZ__5G3MDU703d8qlwdWUpDFm2GbMC3kHtzinmIupp-1OR80qDa4DmCJLujDUbbqFGz6kiiPMww4DAsZASOVE9VEADgMx_cFEVAn7Dbpo2E9dz_ABCB74Ev1blTdEoLjLDModKVtTpUibHhWzV532TDxEr01w2qvQij8Bt7xcNxZafelKqbwhxSSILq8HmqttbFmDQzhxs71S1RSVS75w_hU5RyEwr5lAEffUusEpi6WtV8EMXZldoV-DeE2j8hGbP-Hi6IzIV7vlFA4s1FkaQhIiCcm6Mlp4OeLOM7Lb8VHDDyXd2YP1C7lsTOcswH4fa9CB9luuIEC_F7nEndmbbFQb9ehHY2oUwVjbOju6rqkn4pfxk9upTBXujiuRET-R2Ja6Gm6YzwEqW0-M2B9oWVayWVS5CHCDJlwN91CDfNCgs4z6XUT4rjkHpo7kxZP3J0lOkZeNfqIY4eQZm--NGSf51C87lUXdeVZx8VPoDOENHJSm5jQ7haSmE5zEpAo1iimL5NNZZnPjtoSXuKuwt15CzOYDvj34W2fNE4HFbKc9TX91BIUvgpknj2wDXrucPw8MtAsBPV3b9W7cYakvVuC2VPM2vjB6L5--cmPk7WBAIOK-7X9qh5cD0ARlz-2yeKVbhpjLUl4hSl4YHudvTKAuZXTkmNKnaO6UQdu6t39PlwPEDqgl_BC6simGIOnURgp2qK_tOdrC_XP3tnJ19gAA5NyOyA_4O8sSJiLPdH01qyAOfjSb0msJQBifwjHqA541SG513xYCzzsaDDwGPDJMU-f4aY5GkyABKgl1cy13ZXN0LTIwww8.m3u8",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "live-france24ar",
       "title": "France 24 AR",
       "subtitle": "فرانس 24 عربي",
       "url": "https://f24hls-i.akamaihd.net/hls/live/221147/F24_AR_HI_HLS/master.m3u8",
-      "enabled": true
+      "enabled": false
     }
   ],
   "browserPlayers": [
@@ -127,61 +127,61 @@
       "id": "browser-1",
       "title": "قناة 1",
       "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=1",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "browser-2",
       "title": "قناة 2",
       "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=2",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "browser-3",
       "title": "قناة 3",
       "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=3",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "browser-4",
       "title": "قناة 4",
       "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=4",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "browser-5",
       "title": "قناة 5",
       "url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=1",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "browser-6",
       "title": "قناة 6",
       "url": "https://www.majed-koora.com/",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "browser-7",
       "title": "قناة 7",
       "url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=2",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "browser-8",
       "title": "قناة 8",
       "url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=3",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "browser-9",
       "title": "قناة 9",
       "url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=4",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "browser-10",
       "title": "قناة 10",
       "url": "https://player.syria-player.live/albaplayer/beinmax3/?serv=1",
-      "enabled": true
+      "enabled": false
     }
   ],
   "__note_canvas": "═══ CANVAS / مباريات — livePlayers (HLS) + browserPlayers (web) + ch4 clipper ═══ set enabled:false to hide a tile ═══"
