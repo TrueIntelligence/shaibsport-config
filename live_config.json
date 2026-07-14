@@ -184,5 +184,392 @@
       "enabled": false
     }
   ],
-  "__note_canvas": "═══ CANVAS / مباريات — livePlayers (HLS) + browserPlayers (web) + ch4 clipper ═══ set enabled:false to hide a tile ═══"
+  "__note_canvas": "═══ CANVAS / مباريات ═══ livePlayers = HLS tiles (title/url/subtitle/enabled) ═══ browserPlayers = web embed tiles (قناة 1/2/…) ═══ domainBrowsers = specialty site tiles (mode: mtMask|stingPlay|overlayMatch|liveStatus|manual) ═══ ch4_* = match clipper tile ═══ set enabled:false to hide a tile without app update ═══ change url to update streams remotely",
+  "domainBrowsers": [
+    {
+      "id": "dom-kooraworld",
+      "title": "عالم الكرة",
+      "url": "https://kooraworld.net/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-kooralive",
+      "title": "كورة لايف",
+      "url": "https://livefootballfree.net/",
+      "mode": "stingPlay",
+      "enabled": true
+    },
+    {
+      "id": "dom-kooora-online",
+      "title": "كورة اونلاين",
+      "url": "https://kooora.world/",
+      "mode": "stingPlay",
+      "enabled": true
+    },
+    {
+      "id": "dom-sport-c",
+      "title": "سبورت سي",
+      "url": "https://sport-c.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-koora-mubasher",
+      "title": "كورة مباشر",
+      "url": "https://live-sporthdtv.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-syria-ylive",
+      "title": "سوريا يلايف",
+      "url": "https://live-sporthdtv.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-janoub-sport",
+      "title": "الجنوب سبورت",
+      "url": "https://laacibsports.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-livescore",
+      "title": "لايف سكور",
+      "url": "https://livescore24.tv/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-kora-website",
+      "title": "كورة",
+      "url": "https://kora.website/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-sport-extra",
+      "title": "سبورت اكسترا",
+      "url": "https://sport-extra.net/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-footballkorat",
+      "title": "فوتبول كورات",
+      "url": "https://footballkorat.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-koorarm",
+      "title": "كورة آر إم",
+      "url": "https://koorarm.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-ahlysports",
+      "title": "أهلي سبورتس",
+      "url": "https://ahlysports.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-kooray-live",
+      "title": "كورة واي لايف",
+      "url": "https://kooray-live.tv/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-koorapress",
+      "title": "كورة بريس",
+      "url": "https://koorapress.co/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-skooora",
+      "title": "سكورة",
+      "url": "https://skooora.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-tv-siir-koora",
+      "title": "تي في سير",
+      "url": "https://tv-siir.net/koora-live/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-askoralive",
+      "title": "اسكورة لايف",
+      "url": "https://www.askoralive.live/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-koora4cam",
+      "title": "كورة 4 كام",
+      "url": "https://www.koora4.cam/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-kooray-today",
+      "title": "كورة واي اليوم",
+      "url": "https://kooray-live.tv/today-matches/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-koorapress-today",
+      "title": "كورة بريس اليوم",
+      "url": "https://koorapress.co/matches-today/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-koooracity",
+      "title": "كورة سيتي",
+      "url": "https://koooracity.online/home1/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-kora-en-direct",
+      "title": "كورة إن دايركت",
+      "url": "https://kora-en-direct.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-koraxkora",
+      "title": "كوراكس كورة",
+      "url": "https://www.koraxkora.com/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-livekora-io",
+      "title": "لايف كورة",
+      "url": "https://livekora.io/",
+      "mode": "mtMask",
+      "enabled": true
+    },
+    {
+      "id": "dom-korralive",
+      "title": "كورا لايف",
+      "url": "https://korralive.online/",
+      "mode": "overlayMatch",
+      "enabled": true
+    },
+    {
+      "id": "dom-koore-live",
+      "title": "كوري لايف",
+      "url": "https://koore.live/",
+      "mode": "liveStatus",
+      "enabled": true
+    },
+    {
+      "id": "dom-bookonline",
+      "title": "بوك أونلاين",
+      "url": "https://www.bookonline.life/",
+      "mode": "overlayMatch",
+      "enabled": true
+    },
+    {
+      "id": "dom-kogacity",
+      "title": "كوجا سيتي",
+      "url": "https://www.kogacity.life/",
+      "mode": "overlayMatch",
+      "enabled": true
+    },
+    {
+      "id": "dom-yallakoraa",
+      "title": "يلا كورة",
+      "url": "https://yallakoraa.me/",
+      "mode": "overlayMatch",
+      "enabled": true
+    },
+    {
+      "id": "dom-kora-ws",
+      "title": "كورة WS",
+      "url": "https://kora.ws/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-kora4k",
+      "title": "كورة 4K",
+      "url": "https://kora4k-live.com/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-koora-llive",
+      "title": "كورة إل لايف",
+      "url": "https://koora-llive.blog/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-koooramix",
+      "title": "كورة مكس",
+      "url": "https://koooramix.tv/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-kora360",
+      "title": "كورة 360",
+      "url": "https://kora360tvs.blog/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-acmawards",
+      "title": "ACM Awards",
+      "url": "https://www.acmawards50.com/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-kooora4lives",
+      "title": "كورة 4 لايفز",
+      "url": "https://kooora4lives.co/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-kooraaliive",
+      "title": "كورة ألايف",
+      "url": "https://www.kooraaliive.com/directos",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-yalla-shoote",
+      "title": "يلا شوت",
+      "url": "https://www.yalla-shoote.today/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-kooraliv-one",
+      "title": "كورة ليف",
+      "url": "https://kooraliv.one/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-koraextralive",
+      "title": "كورة اكسترا",
+      "url": "https://koraextralive.com/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-live-kooratv",
+      "title": "لايف كورة TV",
+      "url": "https://live-kooratv.com/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-gonzalopuch",
+      "title": "جونزالو بوتش",
+      "url": "https://gonzalopuch.com/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-kora-citiy",
+      "title": "كورة سيتي لايف",
+      "url": "https://kora-citiy.live/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-koraplus-hd",
+      "title": "كورة بلس HD",
+      "url": "https://www.koraplus-hd.com/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-kora-blog",
+      "title": "كورة بلوج",
+      "url": "https://kora.blog/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-kora-live-now",
+      "title": "كورة لايف ناو",
+      "url": "https://www.kora-live.now/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-koramatch",
+      "title": "كورة ماتش",
+      "url": "https://koramatch.com/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-tv-siir-online",
+      "title": "تي في سير أونلاين",
+      "url": "https://tv-siir.net/kora-online/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-koooralive360",
+      "title": "كورة لايف 360",
+      "url": "https://koooralive360.com/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-koor-info",
+      "title": "كور إنفو",
+      "url": "https://koor.info/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-hikoralive",
+      "title": "هاي كورة لايف",
+      "url": "https://www.hikoralive.com/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-tvsir-today",
+      "title": "تي في سير اليوم",
+      "url": "https://tvsir.tv/matches-today/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-koralcity",
+      "title": "كورال سيتي",
+      "url": "https://www.koralcity.website/",
+      "mode": "manual",
+      "enabled": true
+    },
+    {
+      "id": "dom-kora-livex",
+      "title": "كورة لايفكس",
+      "url": "https://kora-livex.link/",
+      "mode": "manual",
+      "enabled": true
+    }
+  ]
 }
