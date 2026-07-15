@@ -101,27 +101,21 @@
       "enabled": true
     },
     {
+      "id": "live-alhadath",
+      "title": "الحدث",
+      "subtitle": "قناة الحدث الإخبارية",
+      "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "enabled": true
+    },
+    {
       "id": "live-aljazeera-en",
       "title": "Al Jazeera EN",
       "subtitle": "Al Jazeera English",
       "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
       "enabled": true
-    },
-    {
-      "id": "live-france24",
-      "title": "الفرنسيه",
-      "subtitle": "فرانس 24 عربي",
-      "url": "https://f24hls-i.akamaihd.net/hls/live/221147/F24_AR_HI_HLS/master.m3u8",
-      "enabled": true
     }
   ],
   "browserPlayers": [
-    {
-      "id": "fox-sport",
-      "title": "Fox Sport",
-      "url": "https://www.youtube.com/watch?v=OJlwIdoFz9A",
-      "enabled": true
-    },
     {
       "id": "browser-1",
       "title": "قناة 1",
@@ -180,6 +174,18 @@
       "id": "browser-10",
       "title": "قناة 10",
       "url": "https://player.syria-player.live/albaplayer/beinmax3/?serv=1",
+      "enabled": true
+    },
+    {
+      "id": "browser-11",
+      "title": "قناة 11",
+      "url": "https://player.syria-player.live/albaplayer/beinmax3/?serv=2",
+      "enabled": true
+    },
+    {
+      "id": "fox-sport",
+      "title": "Fox Sport",
+      "url": "https://www.youtube.com/watch?v=OJlwIdoFz9A",
       "enabled": true
     }
   ],
@@ -591,5 +597,11 @@
   "world_cup_tour_url": "https://www.yallakora.com/tour-videos/125/%d9%81%d9%8a%d8%af%d9%8a%d9%88%d9%87%d8%a7%d8%aa-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85#wc-menu",
   "brackets_url": "https://www.365scores.com/ar/football/league/fifa-world-cup-5930/brackets",
   "espn_path": "fifa.world",
-  "sportsdb_league_id": "4429"
+  "sportsdb_league_id": "4429",
+  "customBrowser": {
+    "enabled": true,
+    "title": "فتح أي رابط مباراة",
+    "subtitle": "الصق رابط مباشر لمشغل المباراة وسوف يتم تشغيلها مع حظر الإعلانات",
+    "start_url": "https://www.google.com"
+  }
 }
