@@ -1,13 +1,13 @@
 {
   "__note_tabs": "═══ TABS ═══ today_enabled / world_cup_enabled / knockout_enabled / live_enabled / news_enabled / highlights_enabled / fan_center_enabled / settings_enabled (More) ═══ titles: today_title_ar/en, world_cup_title_ar/en, knockout_title_ar/en, live_title + live_title_en, news_title_ar/en, highlights_title_ar/en, fan_center_title_ar/en, more_title_ar/en ═══ highlights URLs: youtube_playlist_id, youtube_moments_url, world_cup_tour_url",
-  "live_enabled": false,
+  "live_enabled": true,
   "live_title": "مباريات",
   "__note_today": "═══ TODAY TAB — مباراة اليوم / Today ═══",
-  "today_enabled": false,
-  "matches_enabled": false,
+  "today_enabled": true,
+  "matches_enabled": true,
   "__note_international": "world_cup_enabled controls the International tab (legacy key name)",
-  "world_cup_enabled": false,
-  "knockout_enabled": false,
+  "world_cup_enabled": true,
+  "knockout_enabled": true,
   "news_enabled": true,
   "__note_predictions": "═══ PREDICTIONS — Fan Center vote row (التوقعات) ═══",
   "predictions_enabled": false,
@@ -98,90 +98,89 @@
       "title": "الجزيرة",
       "subtitle": "قناة الجزيرة الإخبارية",
       "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "live-aljazeera-en",
       "title": "Al Jazeera EN",
       "subtitle": "Al Jazeera English",
       "url": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
-      "enabled": false
+      "enabled": true
     },
     {
-      "id": "live-majid",
-      "title": "ماجد",
-      "subtitle": "قناة ماجد للأطفال",
-      "url": "https://usw22.playlist.ttvnw.net/v1/playlist/Cq0HWdexY0Py7vL1kF505PXnOlA4z9u7N_bUrlnOU36Hobn7GLtJIyrtz7mL40qGTensorflowAeB2rEIkXCxc91HCiVvRnpaxwrUAO2yaILNdP2LlGeD-zbfl7uThQScoMsW56FjkKEjzVv9NzGdWY2gdeclm_TSuqfdggVKUowQcrR7E9AYB2fVKl_1H8_n1jnL9Hs_RYGh9eY0k9rhkW9jEsR2XZcPhicklBYrNRaFiEHw-Nx57-fCg_n_JWqQfgftID4RD7RuqzwyjbquxlJGe9QJ1O4iioZgp4xKHdyP22btr6GJ41ccu2AbSm0B8HoqhIbeBPJMv_rh4NGKqc3-tVIBHv14mmasu_sR3Bn3NqEOynHE2M0BgKIJXCBhdQ6-QIiv16Mu8EduxvFzLtBvQZR0Lvkxm4RNjQi2aRYGJ-K05hA9Dc1MC6WyxUUoRa12e23eUkpyY1bZNUm-QFIB7ZlFB_i_DHZ__5G3MDU703d8qlwdWUpDFm2GbMC3kHtzinmIupp-1OR80qDa4DmCJLujDUbbqFGz6kiiPMww4DAsZASOVE9VEADgMx_cFEVAn7Dbpo2E9dz_ABCB74Ev1blTdEoLjLDModKVtTpUibHhWzV532TDxEr01w2qvQij8Bt7xcNxZafelKqbwhxSSILq8HmqttbFmDQzhxs71S1RSVS75w_hU5RyEwr5lAEffUusEpi6WtV8EMXZldoV-DeE2j8hGbP-Hi6IzIV7vlFA4s1FkaQhIiCcm6Mlp4OeLOM7Lb8VHDDyXd2YP1C7lsTOcswH4fa9CB9luuIEC_F7nEndmbbFQb9ehHY2oUwVjbOju6rqkn4pfxk9upTBXujiuRET-R2Ja6Gm6YzwEqW0-M2B9oWVayWVS5CHCDJlwN91CDfNCgs4z6XUT4rjkHpo7kxZP3J0lOkZeNfqIY4eQZm--NGSf51C87lUXdeVZx8VPoDOENHJSm5jQ7haSmE5zEpAo1iimL5NNZZnPjtoSXuKuwt15CzOYDvj34W2fNE4HFbKc9TX91BIUvgpknj2wDXrucPw8MtAsBPV3b9W7cYakvVuC2VPM2vjB6L5--cmPk7WBAIOK-7X9qh5cD0ARlz-2yeKVbhpjLUl4hSl4YHudvTKAuZXTkmNKnaO6UQdu6t39PlwPEDqgl_BC6simGIOnURgp2qK_tOdrC_XP3tnJ19gAA5NyOyA_4O8sSJiLPdH01qyAOfjSb0msJQBifwjHqA541SG513xYCzzsaDDwGPDJMU-f4aY5GkyABKgl1cy13ZXN0LTIwww8.m3u8",
-      "enabled": false
-    },
-    {
-      "id": "live-france24ar",
-      "title": "France 24 AR",
+      "id": "live-france24",
+      "title": "الفرنسيه",
       "subtitle": "فرانس 24 عربي",
       "url": "https://f24hls-i.akamaihd.net/hls/live/221147/F24_AR_HI_HLS/master.m3u8",
-      "enabled": false
+      "enabled": true
     }
   ],
   "browserPlayers": [
     {
+      "id": "fox-sport",
+      "title": "Fox Sport",
+      "url": "https://www.youtube.com/watch?v=OJlwIdoFz9A",
+      "enabled": true
+    },
+    {
       "id": "browser-1",
       "title": "قناة 1",
       "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=1",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "browser-2",
       "title": "قناة 2",
       "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=2",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "browser-3",
       "title": "قناة 3",
       "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=3",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "browser-4",
       "title": "قناة 4",
       "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=4",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "browser-5",
       "title": "قناة 5",
-      "url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=1",
-      "enabled": false
+      "url": "https://player.syria-player.live/albaplayer/beinmax1/?serv=5",
+      "enabled": true
     },
     {
       "id": "browser-6",
       "title": "قناة 6",
       "url": "https://www.majed-koora.com/",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "browser-7",
       "title": "قناة 7",
       "url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=2",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "browser-8",
       "title": "قناة 8",
       "url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=3",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "browser-9",
       "title": "قناة 9",
       "url": "https://player.syria-player.live/albaplayer/beinmax2/?serv=4",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "browser-10",
       "title": "قناة 10",
       "url": "https://player.syria-player.live/albaplayer/beinmax3/?serv=1",
-      "enabled": false
+      "enabled": true
     }
   ],
   "__note_canvas": "═══ CANVAS / مباريات ═══ livePlayers = HLS tiles (title/url/subtitle/enabled) ═══ browserPlayers = web embed tiles (قناة 1/2/…) ═══ domainBrowsers = specialty site tiles (mode: mtMask|stingPlay|overlayMatch|liveStatus|manual) ═══ ch4_* = match clipper tile ═══ set enabled:false to hide a tile without app update ═══ change url to update streams remotely",
@@ -589,5 +588,8 @@
   "more_title_ar": "المزيد",
   "more_title_en": "More",
   "youtube_moments_url": "https://www.youtube.com/watch?v=LRkMTi2bNDU&list=PLczz3UIGL1XomL2PAj_YUCcwXuXm2PRm1",
-  "world_cup_tour_url": "https://www.yallakora.com/tour-videos/125/%d9%81%d9%8a%d8%af%d9%8a%d9%88%d9%87%d8%a7%d8%aa-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85#wc-menu"
+  "world_cup_tour_url": "https://www.yallakora.com/tour-videos/125/%d9%81%d9%8a%d8%af%d9%8a%d9%88%d9%87%d8%a7%d8%aa-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85#wc-menu",
+  "brackets_url": "https://www.365scores.com/ar/football/league/fifa-world-cup-5930/brackets",
+  "espn_path": "fifa.world",
+  "sportsdb_league_id": "4429"
 }
