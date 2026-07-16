@@ -611,5 +611,8 @@
   "videos_title_ar": "فيديوهات",
   "videos_title_en": "Videos",
   "scorebat_token": "MzYwNTUyXzE3ODQyMjgzNDhfZjAzZWFlZWYzYWQ4M2JmYzYxOTY4MGQ1NmU1ZDEyYWVjYTJlODAzZg==",
-  "scorebat_feed": "free-feed"
+  "scorebat_feed": "free-feed",
+  "fan_player_tools_enabled": true,
+  "fan_player_tools_title_ar": "أدوات",
+  "fan_player_tools_title_en": "Tools"
 }
