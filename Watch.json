@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "today_enabled": false,
+  "matches_enabled": false,
+  "world_cup_enabled": false,
+  "live_enabled": false,
+  "news_enabled": false,
+  "settings_enabled": true
+}
