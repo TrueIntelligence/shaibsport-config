@@ -600,5 +600,6 @@
   "disclaimer_enabled": false,
   "fan_checklist_enabled": true,
   "fan_checklist_title_ar": "قائمة",
-  "fan_checklist_title_en": "Checklist"
+  "fan_checklist_title_en": "Checklist",
+  "cache_clear_enabled": false
 }
