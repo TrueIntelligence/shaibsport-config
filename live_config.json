@@ -606,5 +606,10 @@
   "fan_resources_title_ar": "مصادر",
   "fan_resources_title_en": "Resources",
   "fan_resources_url": "https://www.historyoffootball.net/",
-  "donate_url": "https://www.paypal.com/donate/?business=37YZESEGYPNXL&no_recurring=0&item_name=%D8%A8%D8%AF%D8%B9%D9%85%D9%83%D9%85+%D9%86%D8%B3%D8%AA%D9%85%D8%B1&currency_code=USD"
+  "donate_url": "https://www.paypal.com/donate/?business=37YZESEGYPNXL&no_recurring=0&item_name=%D8%A8%D8%AF%D8%B9%D9%85%D9%83%D9%85+%D9%86%D8%B3%D8%AA%D9%85%D8%B1&currency_code=USD",
+  "videos_enabled": true,
+  "videos_title_ar": "فيديوهات",
+  "videos_title_en": "Videos",
+  "scorebat_token": "MzYwNTUyXzE3ODQyMjgzNDhfZjAzZWFlZWYzYWQ4M2JmYzYxOTY4MGQ1NmU1ZDEyYWVjYTJlODAzZg==",
+  "scorebat_feed": "free-feed"
 }
