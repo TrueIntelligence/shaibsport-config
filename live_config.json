@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "settings_enabled": true,
   "today_enabled": false,
   "matches_enabled": false,
@@ -34,8 +34,8 @@
   "fan_center_title_en": "Fan Center",
   "more_title_ar": "المزيد",
   "more_title_en": "More",
-  "fan_journal_title_ar": "المفكّرة",
-  "fan_journal_title_en": "Journal",
+  "fan_journal_title_ar": "فرق",
+  "fan_journal_title_en": "Teams",
   "fan_lineup_title_ar": "التشكيلة",
   "fan_lineup_title_en": "Lineup",
   "fan_training_title_ar": "تدريب",
