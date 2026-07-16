@@ -595,5 +595,7 @@
   "fan_training_title_ar": "تدريب",
   "fan_training_title_en": "Training",
   "fan_trivia_title_ar": "مسابقة",
-  "fan_trivia_title_en": "Trivia"
+  "fan_trivia_title_en": "Trivia",
+  "privacy_enabled": false,
+  "disclaimer_enabled": false
 }
