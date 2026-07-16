@@ -37,7 +37,7 @@
   "refresh_msg1": "اصبر... جاري التقاط البث ..",
   "refresh_msg2": "",
   "other_channels_enabled": false,
-  "donate_enabled": true,
+  "donate_enabled": false,
   "south_arabia_enabled": false,
   "contact_enabled": true,
   "syca_enabled": false,
