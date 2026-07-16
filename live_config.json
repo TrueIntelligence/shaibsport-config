@@ -1,5 +1,5 @@
 {
-  "config_version": 1,
+  "version": 1,
   "live_enabled": false,
   "live_title": "",
   "today_enabled": false,
