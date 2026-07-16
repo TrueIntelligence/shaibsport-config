@@ -41,7 +41,7 @@
   "south_arabia_enabled": false,
   "contact_enabled": true,
   "syca_enabled": false,
-  "dedication_enabled": true,
+  "dedication_enabled": false,
   "fan_center_update_enabled": false,
   "share_enabled": false,
   "share_title": "دقس صاحبك ينشر البرنامج",
