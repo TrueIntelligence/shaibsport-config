@@ -601,5 +601,9 @@
   "fan_checklist_enabled": true,
   "fan_checklist_title_ar": "قائمة",
   "fan_checklist_title_en": "Checklist",
-  "cache_clear_enabled": false
+  "cache_clear_enabled": false,
+  "fan_resources_enabled": true,
+  "fan_resources_title_ar": "مصادر",
+  "fan_resources_title_en": "Resources",
+  "fan_resources_url": "http://www.rulesofsport.com/sports/football-soccer.html"
 }
