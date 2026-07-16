@@ -5,7 +5,7 @@
   "matches_enabled": true,
   "world_cup_enabled": true,
   "knockout_enabled": true,
-  "news_enabled": true,
+  "news_enabled": false,
   "predictions_enabled": true,
   "game_enabled": true,
   "guide_enabled": false,
@@ -597,5 +597,8 @@
   "fan_trivia_title_ar": "مسابقة",
   "fan_trivia_title_en": "Trivia",
   "privacy_enabled": false,
-  "disclaimer_enabled": false
+  "disclaimer_enabled": false,
+  "fan_checklist_enabled": true,
+  "fan_checklist_title_ar": "قائمة",
+  "fan_checklist_title_en": "Checklist"
 }
