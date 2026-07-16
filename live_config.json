@@ -1,8 +1,8 @@
 {
-  "live_enabled": true,
+  "live_enabled": false,
   "live_title": "مباريات",
-  "today_enabled": true,
-  "matches_enabled": true,
+  "today_enabled": false,
+  "matches_enabled": false,
   "world_cup_enabled": false,
   "knockout_enabled": false,
   "news_enabled": false,
