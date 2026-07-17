@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "settings_enabled": true,
   "today_enabled": false,
   "matches_enabled": false,
@@ -612,5 +612,13 @@
   "scorebat_token": "MzYwNTUyXzE3ODQyMjgzNDhfZjAzZWFlZWYzYWQ4M2JmYzYxOTY4MGQ1NmU1ZDEyYWVjYTJlODAzZg==",
   "scorebat_feed": "free-feed",
   "videos_title_ar": "فيديوهات",
-  "videos_title_en": "Videos"
+  "videos_title_en": "Videos",
+  "match_replays_visible": false,
+  "match_replays_url": "https://tubitv.com/tv-shows/200371229/usa-vs-belgium",
+  "match_replays_title": "اعادة المباريات",
+  "match_replays_title_en": "Match Replays",
+  "movies_visible": false,
+  "movies_url": "https://tubitv.com/movies/100029237/lionel-messi-the-greatest",
+  "movies_title": "افلام",
+  "movies_title_en": "Movies"
 }

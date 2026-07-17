@@ -1,9 +1,11 @@
 {
-  "version": 2,
+  "version": 3,
   "today_enabled": false,
   "matches_enabled": false,
   "world_cup_enabled": false,
   "live_enabled": false,
   "news_enabled": false,
-  "settings_enabled": true
+  "settings_enabled": true,
+  "match_replays_visible": false,
+  "movies_visible": false
 }
