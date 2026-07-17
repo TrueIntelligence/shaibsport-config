@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "settings_enabled": true,
   "today_enabled": false,
   "matches_enabled": false,
@@ -574,8 +574,8 @@
   "ch5_title_ar": "قناة 5",
   "ch5_title_en": "CH 5",
   "ch5_url": "https://we.shootsync.site/albaplayer/sniaer/?serv=0",
-  "watch_stream1_url": "",
-  "watch_stream2_url": "",
+  "watch_stream1_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+  "watch_stream2_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
   "watch_all_m3u": "",
   "watch_yemen_m3u": "",
   "featured_m3u": "",

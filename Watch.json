@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "today_enabled": false,
   "matches_enabled": false,
   "world_cup_enabled": false,
@@ -7,5 +7,11 @@
   "news_enabled": false,
   "settings_enabled": true,
   "match_replays_visible": false,
-  "movies_visible": false
+  "movies_visible": false,
+  "match_replays_title": "اعادة المباريات",
+  "movies_title": "افلام",
+  "live_stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+  "matches_stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+  "match_replays_stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+  "movies_stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
 }
