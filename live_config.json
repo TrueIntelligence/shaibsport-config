@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "settings_enabled": true,
   "today_enabled": false,
   "matches_enabled": false,
@@ -584,8 +584,8 @@
   "rotation_alert_button": "واصل",
   "refresh_msg1": "اصبر... جاري التقاط البث ..",
   "refresh_msg2": "",
-  "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت\n\n• هذا التطبيق مخصص للأغراض الإعلامية والترفيهية فقط.\n• نتائج المباريات والإحصاءات مصدرها خدمات خارجية.\n• لا نتحمل مسؤولية أي أخطاء أو تأخير في البيانات.\n• التطبيق غير رسمي وغير مرتبط بـ FIFA أو كأس العالم أو أي اتحاد أو هيئة كروية.",
-  "disclaimer_en": "Disclaimer – ShaibSport\n\n• This app is intended for informational and entertainment purposes only.\n• Match results and statistics are sourced from third-party services.\n• We are not responsible for any errors or delays in data.\n• This app is unofficial and not affiliated with FIFA, the World Cup, or any football federation or body.",
+  "disclaimer_ar": "إخلاء المسؤولية – الشعيب سبورت\n\n• هذا التطبيق مخصص للأغراض الإعلامية والترفيهية فقط.\n• نتائج المباريات والإحصاءات مصدرها خدمات خارجية.\n• لا نتحمل مسؤولية أي أخطاء أو تأخير في البيانات.\n• التطبيق غير رسمي وغير مرتبط بأي اتحاد أو هيئة كروية.",
+  "disclaimer_en": "Disclaimer – ShaibSport\n\n• This app is intended for informational and entertainment purposes only.\n• Match results and statistics are sourced from third-party services.\n• We are not responsible for any errors or delays in data.\n• This app is unofficial and not affiliated with any football federation or body.",
   "game_enabled": true,
   "ai_assistant_enabled": true,
   "ai_assistant_title_ar": "مساعد رياضي",
