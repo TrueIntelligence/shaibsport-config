@@ -16,7 +16,7 @@
       "country": "Argentina",
       "flagCode": "ar",
       "nameAr": "الأرجنتين",
-      "status": "qualified",
+      "status": "eliminated",
       "note": "Advanced to Semi-finals"
     },
     {
@@ -40,7 +40,7 @@
       "country": "England",
       "flagCode": "gb-eng",
       "nameAr": "إنجلترا",
-      "status": "qualified",
+      "status": "eliminated",
       "note": "Advanced to Semi-finals"
     },
     {
@@ -160,7 +160,7 @@
       "country": "Nigeria",
       "flagCode": "ng",
       "nameAr": "نيجيريا",
-      "status": "qualified",
+      "status": "eliminated",
       "note": "Advanced to Round of 32"
     },
     {
@@ -192,7 +192,7 @@
       "country": "Serbia",
       "flagCode": "rs",
       "nameAr": "صربيا",
-      "status": "qualified",
+      "status": "eliminated",
       "note": "Advanced to Round of 32"
     },
     {
@@ -200,7 +200,7 @@
       "country": "Iran",
       "flagCode": "ir",
       "nameAr": "إيران",
-      "status": "qualified",
+      "status": "eliminated",
       "note": "Advanced to Round of 32"
     },
     {
@@ -216,7 +216,7 @@
       "country": "Italy",
       "flagCode": "it",
       "nameAr": "إيطاليا",
-      "status": "qualified",
+      "status": "eliminated",
       "note": "Advanced to Round of 32"
     },
     {
@@ -264,7 +264,7 @@
       "country": "Poland",
       "flagCode": "pl",
       "nameAr": "بولندا",
-      "status": "qualified",
+      "status": "eliminated",
       "note": "Advanced to Round of 32"
     },
     {
@@ -280,7 +280,7 @@
       "country": "South Korea",
       "flagCode": "kr",
       "nameAr": "كوريا الجنوبية",
-      "status": "qualified",
+      "status": "eliminated",
       "note": "Advanced to Round of 32"
     },
     {
@@ -368,7 +368,7 @@
       "country": "Scotland",
       "flagCode": "gb-sct",
       "nameAr": "اسكتلندا",
-      "status": "qualified",
+      "status": "eliminated",
       "note": "Advanced to Round of 32"
     },
     {
